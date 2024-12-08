@@ -1,0 +1,16 @@
+{
+  "name": "image-to-pdf-cli",
+  "version": "1.0.0",
+  "description": "CLI to convert images to PDFs and merge them",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
